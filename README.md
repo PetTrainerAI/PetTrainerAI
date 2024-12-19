@@ -1,4 +1,4 @@
-# PetTrainerBot: AI-Powered Dog Training System
+# PetTrainerAI: AI-Powered Dog Training System
 
 Welcome to **PetTrainerBot**, a cutting-edge project combining AI and robotics to revolutionize pet training. This repository provides the foundational code for a simulated robotic system capable of training dogs by recognizing their behaviors and offering reinforcement, all powered by AI.
 
@@ -141,4 +141,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ---
 
 ## Contact
-For inquiries or collaborations, please email: [contact@pettrainerbot.com](mailto:contact@pettrainerbot.com).
+For inquiries or collaborations, please email: [contact@pettrainerai.com](mailto:contact@pettrainerai.com).
